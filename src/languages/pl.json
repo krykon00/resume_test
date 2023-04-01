@@ -1,0 +1,45 @@
+{
+    "page_title": "Gawel Designs",
+    "title": "Rafal Gawel",
+    "links": {
+        "Linkedin": "https://www.linkedin.com/in/rafa%C5%82-gawe%C5%82-53676118a/",
+        "YouTube": "https://www.youtube.com/",
+        "Instagram": "https://www.instagram.com/",
+        "Facebook": "https://www.facebook.com/"
+    },
+    "short_info": "Grafik komputerowy, 3D Artis w Fibrain, pasjonat gier komputorywch, entuzjasta Unreal Engine",
+    "csv_button_label": "Pobierz CV (PDF)",
+    "contact": {
+        "email": "gawelrafal@o2.pl",
+        "tel": "+48 123 123 123"
+    },
+    "tabs": {
+       ":sloth: O mnie": {
+            "header": "Doświadczenie i umiejętności",
+            "elements": {
+                "Doświadczenie": {
+                    ":necktie: Fibrain": "2016 - Obecnie: Grafik Komputerowy",
+                    ":necktie: Frelancer": "2018 - Obecnie"
+                },
+                "Umiejętności": {
+                    ":trophy: Unreal Engine 5": "Podstawowy",
+                    ":trophy: Belnder": "Zaawansowny",
+                    ":trophy: 3ds Max": "Podstawowy",
+                    ":trophy: Python": "Podstawowy"
+                },
+                "Wykrztałcenie":{
+                    ":open_book: Wyższa Szkoła w Przemyślu": "2014-2017 Grafika komputerowa",
+                    ":open_book: Technikum nr 8 w Przemyślu": "2009-2013 Klasa Technik Informatyk"
+                }
+            }
+        },
+        ":film_frames: Galeria video": {
+            "Włukno szklane": "https://www.youtube.com/watch?v=E7qu7q68mnw",
+            "Symulator układuoptycznego": "https://www.youtube.com/watch?v=DApcpcaEQec",
+            "Pokaz produktu": "https://www.youtube.com/watch?v=ghm0cLAukIs",
+            "FDH-G serie okablowania": "https://www.youtube.com/watch?v=iz6ALRN2dy8"
+    },
+        ":camera: Rendery": {
+        }
+    }       
+}

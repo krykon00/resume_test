@@ -1,0 +1,45 @@
+{
+    "page_title": "Gawel Designs",
+    "title": "Rafal Gawel",
+    "links": {
+        "Linkedin": "https://www.linkedin.com/in/rafa%C5%82-gawe%C5%82-53676118a/",
+        "YouTube": "https://www.youtube.com/",
+        "Instagram": "https://www.instagram.com/",
+        "Facebook": "https://www.facebook.com/"
+    },
+    "short_info": "Graphic Designer, 3D Artis in Fibrain, video game lover,Unreal Engine Adept",
+    "csv_button_label": "Download CV (PDF)",
+    "contact": {
+        "email": "gawelrafal@o2.pl",
+        "tel": "+48 123 123 123"
+    },
+    "tabs": {
+       ":sloth: About me": {
+            "header": "Skills & Expiriance",
+            "elements": {
+                "Experiance": {
+                    ":necktie: Fibrain": "2016 - now: Computer Graphic",
+                    ":necktie: Frelancer": "2018 - now"
+                },
+                "Skills": {
+                    ":trophy: Unreal Engine 5": "Basic",
+                    ":trophy: Belnder": "Exper",
+                    ":trophy: 3ds Max": "Basic",
+                    ":trophy: Python": "Basic"
+                },
+                "Education":{
+                    ":open_book: Wyższa Szkoła w Przemyślu": "2014-2017 Computer graphic",
+                    ":open_book: Technikum nr 8 w Przemyślu": "2009-2013 Information Technology class"
+                }
+            }
+        },
+        ":film_frames: Video gallery": {
+            "Fiber glass": "https://www.youtube.com/watch?v=E7qu7q68mnw",
+            "Optic Circuit Simulation": "https://www.youtube.com/watch?v=DApcpcaEQec",
+            "Product overview": "https://www.youtube.com/watch?v=ghm0cLAukIs",
+            "FDH-G series of cabinets": "https://www.youtube.com/watch?v=iz6ALRN2dy8"
+    },
+        ":camera: Renders": {
+        }
+    }       
+}
